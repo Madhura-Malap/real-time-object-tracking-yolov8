@@ -87,6 +87,18 @@ Press **Q** to exit.
 
 ---
 
+## 📸 Demo Results
+
+### Multiple Object Detection
+
+![Demo 1](WhatsApp%20Image%202026-06-23%20at%201.13.17%20PM.jpeg)
+
+### Mobile Phone Detection
+
+![Demo 2](WhatsApp%20Image%202026-06-23%20at%201.13.27%20PM.jpeg)
+
+---
+
 ## 📈 Future Enhancements
 
 - Custom object detection models
